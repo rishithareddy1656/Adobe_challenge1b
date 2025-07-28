@@ -1,0 +1,6 @@
+PyMuPDF==1.24.4
+scikit-learn==1.5.0
+nltk==3.8.1
+numpy==1.26.4
+sentence-transformers==2.7.0
+huggingface_hub==0.23.0
